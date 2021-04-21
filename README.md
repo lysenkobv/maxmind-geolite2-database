@@ -1,3 +1,7 @@
+# Package is DEPRECATED
+Please use official website to download fresh GeoLite2 Database https://dev.maxmind.com/geoip/geoip2/geolite2/ 
+
+
 ## Installation
 
 ```bash
